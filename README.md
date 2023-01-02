@@ -1,4 +1,4 @@
--  Hi, I’m JUan Manuel Agudelo
+-  Hi, I’m Juan M. Agudelo
 -  I’m currently studying astrophysics
 -  I’m trying to become in a full-stack developer
 
